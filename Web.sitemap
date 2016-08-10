@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/NewJob.aspx" title="New Job"  description="Click to navigate to New Job Page">
+    <siteMapNode url="~/ViewJob.aspx" title="View Jobs"  description="Click to navigate to View Job Page" />
+    <siteMapNode url="~/ModifyJobDetails.aspx" title="Modify Job"  description="Click to navigate to Modify Job Page" />
+    <siteMapNode url="~/Help.aspx" title="Help"  description="Click to navigate to Help Page" />
+    </siteMapNode>
+</siteMap>
